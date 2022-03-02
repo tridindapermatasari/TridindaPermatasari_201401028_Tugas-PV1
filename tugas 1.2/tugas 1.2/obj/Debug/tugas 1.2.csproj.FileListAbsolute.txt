@@ -1,0 +1,5 @@
+D:\C#\tugas 1.2\tugas 1.2\bin\Debug\tugas 1.2.exe
+D:\C#\tugas 1.2\tugas 1.2\bin\Debug\tugas 1.2.pdb
+D:\C#\tugas 1.2\tugas 1.2\obj\Debug\tugas 1.2.csprojResolveAssemblyReference.cache
+D:\C#\tugas 1.2\tugas 1.2\obj\Debug\tugas 1.2.exe
+D:\C#\tugas 1.2\tugas 1.2\obj\Debug\tugas 1.2.pdb

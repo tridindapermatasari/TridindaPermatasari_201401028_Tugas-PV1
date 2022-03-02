@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tugas 1.3", "tugas 1.3\tugas 1.3.csproj", "{90925423-B62A-405D-8EE0-BBBD85028F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90925423-B62A-405D-8EE0-BBBD85028F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90925423-B62A-405D-8EE0-BBBD85028F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90925423-B62A-405D-8EE0-BBBD85028F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90925423-B62A-405D-8EE0-BBBD85028F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

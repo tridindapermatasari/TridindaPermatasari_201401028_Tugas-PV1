@@ -1,0 +1,7 @@
+D:\C#\tugas 1.3\tugas 1.3\bin\Debug\tugas 1.3.exe
+D:\C#\tugas 1.3\tugas 1.3\bin\Debug\tugas 1.3.pdb
+D:\C#\tugas 1.3\tugas 1.3\obj\Debug\tugas 1.3.csprojResolveAssemblyReference.cache
+D:\C#\tugas 1.3\tugas 1.3\obj\Debug\tugas_1._.MainForm.resources
+D:\C#\tugas 1.3\tugas 1.3\obj\Debug\tugas 1.3.csproj.GenerateResource.Cache
+D:\C#\tugas 1.3\tugas 1.3\obj\Debug\tugas 1.3.exe
+D:\C#\tugas 1.3\tugas 1.3\obj\Debug\tugas 1.3.pdb
